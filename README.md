@@ -6,10 +6,9 @@ The **Library Management System** is a full-stack web application designed to ma
 ## Project Type
 Fullstack
 
-## Deployed App
-Frontend: [https://deployed-site.whatever](https://deployed-site.whatever)
-Backend: [https://deployed-site.whatever](https://deployed-site.whatever)
-Database: [https://deployed-site.whatever](https://deployed-site.whatever)
+## Demo Link
+https://book-nest-eosin-psi.vercel.app/
+
 
 ## Directory Structure
 ```
